@@ -1,0 +1,9 @@
+name: PluginPractice
+main: me.supermaxman.pluginpractice.PluginPractice
+version: 1.0.0
+author: Supermaxman
+description: Practice some plugins!
+commands:
+    charge:
+        description: Charge clay balls to fire lightning!
+        usage: /<command>
